@@ -1,5 +1,5 @@
 # GPT-4 Portfolio Experiment
-
+- Please feel free to make changes and run the code in [Google Colab](https://colab.research.google.com/github/spehl-max/GPT4_Portfolio_Experiment/blob/main/GPT_4_Portfolio_Experiment.ipynb)
 ## Overview
 This project explores the effectiveness of using GPT-4, a large language model, to construct investment portfolios aimed at outperforming the S&P 500. The experiment involved creating portfolios with different strategies: a negative control (expected to underperform), a control (expected to match the S&P 500), and an experimental treatment with additional information provided to GPT-4.
 
